@@ -1,6 +1,6 @@
-# Office Clause Library #
+# Office Clause Library
 
-This repository shows how you can build a library of clauses that can be added to a word document. 
+This repository shows how you can build a library of clauses that can be added to a Word document. 
 These clauses can then be reused within documents. The clauses can be stored to any SharePoint library 
 that contains the app.  
 
@@ -14,7 +14,7 @@ current version of the project, it does not clean up the created lists within an
 Online subsite. At this time you'll have to manually remove these artifacts, for example, the clauses, groups, 
 and tags lists.**
 
-# How to Run This Sample #
+## How to Run This Sample
 To run this sample, you need:
 
 1. Visual Studio 2015, with Office Developer Tools installed.
